@@ -1,0 +1,6 @@
+
+flask
+numpy
+WTForms
+gunicorn
+requests
