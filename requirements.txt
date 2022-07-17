@@ -4,3 +4,4 @@ numpy
 WTForms
 gunicorn
 requests
+sklearn
